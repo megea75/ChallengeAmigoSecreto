@@ -31,3 +31,18 @@ function actualizarLista() {
         lista.appendChild(li);
     });
 }
+
+                // Función para sortear un amigo
+                function sortearAmigo() {
+                    if (listaAmigos.length === 0) {
+                                    alert('No hay amigos en la lista para sortear');
+                                    return;
+                    }
+
+                    const indiceAleatorio = Math.floor(Math.random() * listaAmigos.length);
+                    const amigoSorteado = listaAmigos[indiceAleatorio];
+
+                    // Mostrar el resultado
+                    const resultado = document.getElementById('resultado');
+                    resultado.textContent = `El amigo secreto es: ${amigoSorteado}`;
+    }
