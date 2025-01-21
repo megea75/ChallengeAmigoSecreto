@@ -1,6 +1,6 @@
 # ChallengeAmigoSecreto
 En este desafío, he desarrado una aplicación que permite a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto".
- ![Image Alt](image_url).
+ ![Image Alt](https://github.com/megea75/ChallengeAmigoSecreto/blob/5c45be4be17fd4628b6ee9e7ac4f0c55e8fb5fcc/assets/app.png).
 
 assets\amigosecreto.png
 El usuario deberá agregar nombres mediante un campo de texto y un botón "Adicionar". 
