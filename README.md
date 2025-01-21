@@ -1,10 +1,15 @@
 # ChallengeAmigoSecreto
 En este desafío, he desarrado una aplicación que permite a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto".
+assets\amigosecreto.png
 El usuario deberá agregar nombres mediante un campo de texto y un botón "Adicionar". 
+assets\agregaramigo.png
 Implementada una validación para asegurarse de que el campo no esté vacío. Si está vacío, muestra un alert con un mensaje de error: "Por favor, inserte un nombre."
+assets\alertavacio.png
 Los nombres ingresados se mostrarán en una lista visible en la página.
+
 Después de añadir el nombre, restablecer el campo de texto a una cadena vacía.
 y al finalizar, un botón "Sortear Amigo" seleccionará uno de los nombres de forma aleatoria, mostrando el resultado en pantalla.
+assets\resultado.png
 
 Fucionalidades:
 
