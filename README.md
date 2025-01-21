@@ -1,5 +1,5 @@
 # ChallengeAmigoSecreto
-En este desafío, he desarrollado una aplicación que permite a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto".
+En este primer desafío de" Principiante en Programación G8 - ONE", que forma parte del Programa ONE, una alianza entre Alura Latam y Oracle, he desarrollado una aplicación que permite a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto".
  ![Image Alt](https://github.com/megea75/ChallengeAmigoSecreto/blob/5c45be4be17fd4628b6ee9e7ac4f0c55e8fb5fcc/assets/app.png).
 
 
