@@ -6,6 +6,8 @@ assets\amigosecreto.png
 El usuario deberá agregar nombres mediante un campo de texto y un botón "Adicionar". 
  ![Image Alt](https://github.com/megea75/ChallengeAmigoSecreto/blob/87923aece7234014d2def95fa52cdd9b6f24160b/assets/agregaramigo.png).
 Implementada una validación para asegurarse de que el campo no esté vacío. Si está vacío, muestra un alert con un mensaje de error: "Por favor, inserte un nombre."
+ ![Image Alt] (https://github.com/megea75/ChallengeAmigoSecreto/blob/798d418e1a5bf9c1b2048e2a308a594c20496de8/assets/alertavacio.png).
+
 assets\alertavacio.png
 Los nombres ingresados se mostrarán en una lista visible en la página.
 
